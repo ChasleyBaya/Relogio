@@ -36,5 +36,9 @@ body{
     letter-spacing: 3px;
 }
 .Relogio span {
-
+    font-weight: bolder;
+    font-size: 60px;
+}
+.Relogio span.tempo{
+    font-size: 10px;
 }
