@@ -3,7 +3,7 @@
 
 .body{
     height: 100vh;
-    background: linear-gradient(120deg, #FBBD0D, #FD1F4A);
+    background-image: url(img/7971.jpg);
     display: flex;
     align-items: center;
     justify-content: center;
