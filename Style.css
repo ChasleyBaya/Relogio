@@ -1,12 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto:wght@300;400;700&display=swap');
 
-*{
-    margin: 0;
-    padding: 0;
-    font-family: "Roboto" ;
-}
 
-body{
+.body{
     height: 100vh;
     background: linear-gradient(120deg, #FBBD0D, #FD1F4A);
     display: flex;
@@ -14,6 +9,9 @@ body{
     justify-content: center;
 }
 .Relogio{
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto" ;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -42,3 +40,9 @@ body{
 .Relogio span.tempo{
     font-size: 10px;
 }
+
+.cor{ 
+    color:rgb(245, 48, 90) !important;
+    
+}
+
